@@ -56,8 +56,10 @@ Build dashboards showing total cases, deaths, and vaccination rates.
 Identify top-affected countries and recovery patterns.
 
 Dataset: Our World in Data – COVID-19
-<p>
+<h>
 ****EDUCATION****
+<h/>
+<p>
 Moster of computer applications from Omega PG College ,Hyderabad ,2025
 Bachelor of computer applications from Prathibha Degree College ,Hyderabad,2023
 </p>
