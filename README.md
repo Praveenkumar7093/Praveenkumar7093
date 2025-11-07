@@ -8,9 +8,8 @@ I specialize in **data cleaning, exploratory data analysis (EDA), dashboard crea
 🔹 Interested in: Business Analytics | Data Visualization | Machine Learning for Insights  
 
 ---
-<h>
 ****Academic projects****
-  </h>
+
 **1 Sales Performance Dashboard**
 
 Goal: Analyze sales data to identify top-performing products, regions, and sales representatives.
@@ -58,13 +57,12 @@ Build dashboards showing total cases, deaths, and vaccination rates.
 Identify top-affected countries and recovery patterns.
 
 Dataset: Our World in Data – COVID-19
-<h>
 ****EDUCATION****
-<h/>
-<p>
 Moster of computer applications from Omega PG College ,Hyderabad ,2025
 Bachelor of computer applications from Prathibha Degree College ,Hyderabad,2023
-</p>
-<img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="100"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="70"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="80"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="100"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="70"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="80"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="80"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Microsoft_Office_Excel_2013-2019_logo.svg" width="60"/>
