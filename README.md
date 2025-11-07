@@ -10,7 +10,53 @@ I specialize in **data cleaning, exploratory data analysis (EDA), dashboard crea
 ---
 
 ## 📂 Repository Structure
+**Academic projects
 
+Sales Performance Dashboard
 
+Goal: Analyze sales data to identify top-performing products, regions, and sales representatives.
 
+Skills: Excel / Power BI / Tableau
+
+Tasks:
+
+Clean and summarize sales transactions.
+
+Create KPIs (Total Revenue, Profit Margin, Units Sold).
+
+Build an interactive dashboard with filters (Region, Product Category, Time Period).
+
+Dataset: Kaggle - Superstore Sales Dataset
+
+2️⃣ Netflix Data Analysis
+
+Goal: Explore Netflix content trends and audience insights.
+
+Skills: Python (Pandas, Seaborn)
+
+Tasks:
+
+Analyze genres, release years, and countries.
+
+Visualize trends in content production over time.
+
+Identify relationships between ratings and genres.
+
+Dataset: Netflix Titles on Kaggle
+
+3️⃣ COVID-19 Data Exploration
+
+Goal: Track global COVID-19 cases and visualize trends.
+
+Skills: SQL, Power BI
+
+Tasks:
+
+Query and aggregate global COVID-19 data.
+
+Build dashboards showing total cases, deaths, and vaccination rates.
+
+Identify top-affected countries and recovery patterns.
+
+Dataset: Our World in Data – COVID-19
 
