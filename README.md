@@ -22,7 +22,7 @@ This repository highlights my work in **data analysis, visualization, and report
 
 ## 🧠 About Me
 
-Hi, I'm **[Your Name]**, a passionate **Data Analyst** with a strong background in transforming complex datasets into actionable insights.  
+Hi, I'm **[Praveenkumar]**, a passionate **Data Analyst** with a strong background in transforming complex datasets into actionable insights.  
 I specialize in **data cleaning, exploratory data analysis (EDA), dashboard creation, and storytelling with data**.
 
 🔹 Skilled in: Python | SQL | Excel | Power BI | Tableau  
