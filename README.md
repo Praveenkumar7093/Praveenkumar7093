@@ -67,7 +67,6 @@ Bachelor of computer applications from Prathibha Degree College ,Hyderabad,2023
 </p>
 <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="100"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="70"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_(2019–present).svg" width="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="80"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="80"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Microsoft_Office_Excel_2013-2019_logo.svg" width="60"/>
