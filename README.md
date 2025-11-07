@@ -8,7 +8,9 @@ I specialize in **data cleaning, exploratory data analysis (EDA), dashboard crea
 🔹 Interested in: Business Analytics | Data Visualization | Machine Learning for Insights  
 
 ---
+<h>
 ****Academic projects****
+  </h>
 **1 Sales Performance Dashboard**
 
 Goal: Analyze sales data to identify top-performing products, regions, and sales representatives.
